@@ -51,3 +51,51 @@ Version 1.0.0
 ## Finish time: 11:15am
 
 ## Actual time needed to complete: 2hrs 10min
+
+
+#LAB 07#
+
+Number and name of feature: DATA FORMATTING
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 9AM
+
+Finish time: 9:40
+
+Actual time needed to complete: 40 MIN
+
+
+
+Number and name of feature: LOCATIONS
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 9:40
+
+Finish time: 10;30
+
+Actual time needed to complete: 50 MIN
+
+
+
+
+Number and name of feature: WEATHER
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 10;30AM
+
+Finish time: 11AM
+
+Actual time needed to complete: 30 MIN
+
+Number and name of feature: EVENTBRITE
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 11;00AM
+
+Finish time: 11:35AM
+
+Actual time needed to complete: 35 MIN
