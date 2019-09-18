@@ -36,20 +36,10 @@ app.get('/location', (request, response) => {
     let searchQuery = request.query.data;
     const geoDataResults = require('./data/geo.json');
     const locations = new Locations(searchQuery, geoDataResults);
-    let correct = false;
-    geoDataResults.results.forEach(city => {
-      if(city.address_components[0].long_name.toLowerCase() === searchQuery.toLowerCase()){
-        correct = true;
-      }
-    });
-    if(correct) {
-      response.status(200).send(locations);
-    }
-    else{
-      response.status(500).send('Sorry, invalid input there buddy');
-    }
+    response.status(200).send(locations);
   }
   catch(err){
+    response.status(500).send('Sorry, invalid input there buddy');
     console.error(err);
   }
 });
