@@ -41,13 +41,91 @@ Version 1.0.0
         Added get functions for retrieving JSON data
         Added if statement to check for correct city input
 
+Version 1.0.1
+     Branch lab08
+        Added database functionality.
 
-## Number and name of feature: Complete User Acceptance Tests
+Number and name of feature: Complete User Acceptance Tests
 
-## Estimate of time needed to complete: 4hrs
+Estimate of time needed to complete: 4hrs
 
-## Start time: 9:05am
+Start time: 9:05am
 
-## Finish time: 11:15am
+Finish time: 11:15am
 
-## Actual time needed to complete: 2hrs 10min
+Actual time needed to complete: 2hrs 10min
+
+
+#LAB 07#
+
+Number and name of feature: DATA FORMATTING
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 9AM
+
+Finish time: 9:40
+
+Actual time needed to complete: 40 MIN
+
+Number and name of feature: LOCATIONS
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 9:40
+
+Finish time: 10;30
+
+Actual time needed to complete: 50 MIN
+
+Number and name of feature: WEATHER
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 10;30AM
+
+Finish time: 11AM
+
+Actual time needed to complete: 30 MIN
+
+Number and name of feature: EVENTBRITE
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 11;00AM
+
+Finish time: 11:35AM
+
+Actual time needed to complete: 35 MIN
+
+#LAB08
+
+Number and name of feature: Database Setup
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 9:00AM
+
+Finish time: 
+
+Actual time needed to complete: 
+
+Number and name of feature: Server
+
+Estimate of time needed to complete: 1 HR
+
+Start time: 9:27AM
+
+Finish time: 10:45AM
+
+Actual time needed to complete: 1hr 15min
+
+Number and name of feature: Deploy
+
+Estimate of time needed to complete: 10min
+
+Start time: 11:00AM
+
+Finish time: 11:11AM
+
+Actual time needed to complete: 11min
