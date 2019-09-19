@@ -8,9 +8,16 @@ app.use(express.static('public'));
 
 const cors = require('cors');
 const superagent = require('superagent');
+const pg = require('pg');
+const DATABASE_URL = process.env.DATABASE_URL;
 app.use(cors());
 
 const PORT = process.env.PORT || 3000;
+
+//connect database
+const client = new pg.Client(DATABASE_URL);
+client.connect();
+client.on('error', errorHandler);
 
 let lat = 0;
 let lng = 0;

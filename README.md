@@ -41,6 +41,9 @@ Version 1.0.0
         Added get functions for retrieving JSON data
         Added if statement to check for correct city input
 
+Version 1.0.1
+        Branch lab08
+        
 
 ## Number and name of feature: Complete User Acceptance Tests
 
