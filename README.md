@@ -116,16 +116,16 @@ Estimate of time needed to complete: 1 HR
 
 Start time: 9:27AM
 
-Finish time: 
+Finish time: 10:45AM
 
-Actual time needed to complete: 
+Actual time needed to complete: 1hr 15min
 
-Number and name of feature: EVENTBRITE
+Number and name of feature: Deploy
 
-Estimate of time needed to complete: 1 HR
+Estimate of time needed to complete: 10min
 
-Start time: 
+Start time: 11:00AM
 
-Finish time: 
+Finish time: 11:11AM
 
-Actual time needed to complete: 
+Actual time needed to complete: 11min
