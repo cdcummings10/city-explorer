@@ -129,3 +129,35 @@ Start time: 11:00AM
 Finish time: 11:11AM
 
 Actual time needed to complete: 11min
+
+#LAB09#
+
+Number and name of feature: Refactor
+
+Estimate of time needed to complete: 3hrs
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+Number and name of feature: Movies
+
+Estimate of time needed to complete: 1hr
+
+Start time: 10:30AM
+
+Finish time: 11:40AM
+
+Actual time needed to complete: 1hr 10min
+
+Number and name of feature: Yelp
+
+Estimate of time needed to complete: 1hr
+
+Start time: 11:40AM
+
+Finish time: 1:16PM
+
+Actual time needed to complete: 1hr
